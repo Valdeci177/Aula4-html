@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>G-4 Brasileirão 2022</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="team-section">
+        <div class="team">
+            <h2>1º Lugar - Flamengo</h2>
+            <p><strong>Origem:</strong> Rio de Janeiro</p>
+            <p><strong>Estádio:</strong> Maracanã</p>
+            <p><strong>Curiosidade:</strong> Campeão da Libertadores em 2019.</p>
+        </div>
+        <div class="team">
+            <h2>2º Lugar - Atlético Mineiro</h2>
+            <p><strong>Origem:</strong> Belo Horizonte</p>
+            <p><strong>Estádio:</strong> Mineirão</p>
+            <p><strong>Curiosidade:</strong> Vencedor da Libertadores em 2013.</p>
+        </div>
+        <div class="team">
+            <h2>3º Lugar - Palmeiras</h2>
+            <p><strong>Origem:</strong> São Paulo</p>
+            <p><strong>Estádio:</strong> Allianz Parque</p>
+            <p><strong>Curiosidade:</strong> Campeão da Libertadores em 1999 e 2020.</p>
+        </div>
+        <div class="team">
+            <h2>4º Lugar - Fortaleza</h2>
+            <p><strong>Origem:</strong> Fortaleza</p>
+            <p><strong>Estádio:</strong> Castelão</p>
+            <p><strong>Curiosidade:</strong> Venceu a Copa do Nordeste em 2019 e 2020.</p>
+        </div>
+    </div>
+</body>
+</html>
